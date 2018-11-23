@@ -12,6 +12,16 @@
 		A42F834A21927A3F0020C38E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42F834821927A3F0020C38E /* Main.storyboard */; };
 		A42F834C21927A4B0020C38E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A42F834B21927A4B0020C38E /* Assets.xcassets */; };
 		A42F834F21927A4B0020C38E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42F834D21927A4B0020C38E /* LaunchScreen.storyboard */; };
+		A42F835D21927A660020C38E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42F835C21927A660020C38E /* AppDelegate.swift */; };
+		A42F835F21927A660020C38E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42F835E21927A660020C38E /* ViewController.swift */; };
+		A42F836221927A660020C38E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42F836021927A660020C38E /* Main.storyboard */; };
+		A42F836421927A6B0020C38E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A42F836321927A6B0020C38E /* Assets.xcassets */; };
+		A42F836721927A6B0020C38E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42F836521927A6B0020C38E /* LaunchScreen.storyboard */; };
+		A42F83732192B3CC0020C38E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42F83722192B3CC0020C38E /* AppDelegate.swift */; };
+		A42F83752192B3CC0020C38E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42F83742192B3CC0020C38E /* ViewController.swift */; };
+		A42F83782192B3CC0020C38E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42F83762192B3CC0020C38E /* Main.storyboard */; };
+		A42F837A2192B3D30020C38E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A42F83792192B3D30020C38E /* Assets.xcassets */; };
+		A42F837D2192B3D30020C38E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42F837B2192B3D30020C38E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,10 +32,38 @@
 		A42F834B21927A4B0020C38E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A42F834E21927A4B0020C38E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A42F835021927A4B0020C38E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A42F835A21927A660020C38E /* Pinch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pinch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A42F835C21927A660020C38E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A42F835E21927A660020C38E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A42F836121927A660020C38E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A42F836321927A6B0020C38E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A42F836621927A6B0020C38E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A42F836821927A6B0020C38E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A42F83702192B3CC0020C38E /* LoginDialog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginDialog.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A42F83722192B3CC0020C38E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A42F83742192B3CC0020C38E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A42F83772192B3CC0020C38E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A42F83792192B3D30020C38E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A42F837C2192B3D30020C38E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A42F837E2192B3D30020C38E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		A42F833E21927A3E0020C38E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A42F835721927A660020C38E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A42F836D2192B3CC0020C38E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,6 +77,8 @@
 			isa = PBXGroup;
 			children = (
 				A42F834321927A3F0020C38E /* ViewController1107 */,
+				A42F835B21927A660020C38E /* Pinch */,
+				A42F83712192B3CC0020C38E /* LoginDialog */,
 				A42F834221927A3F0020C38E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -47,6 +87,8 @@
 			isa = PBXGroup;
 			children = (
 				A42F834121927A3F0020C38E /* ViewController1107.app */,
+				A42F835A21927A660020C38E /* Pinch.app */,
+				A42F83702192B3CC0020C38E /* LoginDialog.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -62,6 +104,32 @@
 				A42F835021927A4B0020C38E /* Info.plist */,
 			);
 			path = ViewController1107;
+			sourceTree = "<group>";
+		};
+		A42F835B21927A660020C38E /* Pinch */ = {
+			isa = PBXGroup;
+			children = (
+				A42F835C21927A660020C38E /* AppDelegate.swift */,
+				A42F835E21927A660020C38E /* ViewController.swift */,
+				A42F836021927A660020C38E /* Main.storyboard */,
+				A42F836321927A6B0020C38E /* Assets.xcassets */,
+				A42F836521927A6B0020C38E /* LaunchScreen.storyboard */,
+				A42F836821927A6B0020C38E /* Info.plist */,
+			);
+			path = Pinch;
+			sourceTree = "<group>";
+		};
+		A42F83712192B3CC0020C38E /* LoginDialog */ = {
+			isa = PBXGroup;
+			children = (
+				A42F83722192B3CC0020C38E /* AppDelegate.swift */,
+				A42F83742192B3CC0020C38E /* ViewController.swift */,
+				A42F83762192B3CC0020C38E /* Main.storyboard */,
+				A42F83792192B3D30020C38E /* Assets.xcassets */,
+				A42F837B2192B3D30020C38E /* LaunchScreen.storyboard */,
+				A42F837E2192B3D30020C38E /* Info.plist */,
+			);
+			path = LoginDialog;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,6 +152,40 @@
 			productReference = A42F834121927A3F0020C38E /* ViewController1107.app */;
 			productType = "com.apple.product-type.application";
 		};
+		A42F835921927A660020C38E /* Pinch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A42F836921927A6B0020C38E /* Build configuration list for PBXNativeTarget "Pinch" */;
+			buildPhases = (
+				A42F835621927A660020C38E /* Sources */,
+				A42F835721927A660020C38E /* Frameworks */,
+				A42F835821927A660020C38E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Pinch;
+			productName = Pinch;
+			productReference = A42F835A21927A660020C38E /* Pinch.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A42F836F2192B3CC0020C38E /* LoginDialog */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A42F837F2192B3D30020C38E /* Build configuration list for PBXNativeTarget "LoginDialog" */;
+			buildPhases = (
+				A42F836C2192B3CC0020C38E /* Sources */,
+				A42F836D2192B3CC0020C38E /* Frameworks */,
+				A42F836E2192B3CC0020C38E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LoginDialog;
+			productName = LoginDialog;
+			productReference = A42F83702192B3CC0020C38E /* LoginDialog.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -95,6 +197,12 @@
 				ORGANIZATIONNAME = the;
 				TargetAttributes = {
 					A42F834021927A3E0020C38E = {
+						CreatedOnToolsVersion = 9.4;
+					};
+					A42F835921927A660020C38E = {
+						CreatedOnToolsVersion = 9.4;
+					};
+					A42F836F2192B3CC0020C38E = {
 						CreatedOnToolsVersion = 9.4;
 					};
 				};
@@ -113,6 +221,8 @@
 			projectRoot = "";
 			targets = (
 				A42F834021927A3E0020C38E /* ViewController1107 */,
+				A42F835921927A660020C38E /* Pinch */,
+				A42F836F2192B3CC0020C38E /* LoginDialog */,
 			);
 		};
 /* End PBXProject section */
@@ -128,6 +238,26 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A42F835821927A660020C38E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A42F836721927A6B0020C38E /* LaunchScreen.storyboard in Resources */,
+				A42F836421927A6B0020C38E /* Assets.xcassets in Resources */,
+				A42F836221927A660020C38E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A42F836E2192B3CC0020C38E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A42F837D2192B3D30020C38E /* LaunchScreen.storyboard in Resources */,
+				A42F837A2192B3D30020C38E /* Assets.xcassets in Resources */,
+				A42F83782192B3CC0020C38E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -137,6 +267,24 @@
 			files = (
 				A42F834721927A3F0020C38E /* ViewController.swift in Sources */,
 				A42F834521927A3F0020C38E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A42F835621927A660020C38E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A42F835F21927A660020C38E /* ViewController.swift in Sources */,
+				A42F835D21927A660020C38E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A42F836C2192B3CC0020C38E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A42F83752192B3CC0020C38E /* ViewController.swift in Sources */,
+				A42F83732192B3CC0020C38E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,6 +303,38 @@
 			isa = PBXVariantGroup;
 			children = (
 				A42F834E21927A4B0020C38E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A42F836021927A660020C38E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A42F836121927A660020C38E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A42F836521927A6B0020C38E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A42F836621927A6B0020C38E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A42F83762192B3CC0020C38E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A42F83772192B3CC0020C38E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A42F837B2192B3D30020C38E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A42F837C2192B3D30020C38E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -310,6 +490,74 @@
 			};
 			name = Release;
 		};
+		A42F836A21927A6B0020C38E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Pinch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = gmail.pilot.lyb.Pinch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A42F836B21927A6B0020C38E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Pinch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = gmail.pilot.lyb.Pinch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A42F83802192B3D30020C38E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = LoginDialog/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = gmail.pilot.lyb.LoginDialog;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A42F83812192B3D30020C38E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = LoginDialog/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = gmail.pilot.lyb.LoginDialog;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -327,6 +575,24 @@
 			buildConfigurations = (
 				A42F835421927A4B0020C38E /* Debug */,
 				A42F835521927A4B0020C38E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A42F836921927A6B0020C38E /* Build configuration list for PBXNativeTarget "Pinch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A42F836A21927A6B0020C38E /* Debug */,
+				A42F836B21927A6B0020C38E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A42F837F2192B3D30020C38E /* Build configuration list for PBXNativeTarget "LoginDialog" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A42F83802192B3D30020C38E /* Debug */,
+				A42F83812192B3D30020C38E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
